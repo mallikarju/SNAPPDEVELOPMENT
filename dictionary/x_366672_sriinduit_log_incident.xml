@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Log incident" max_length="40" name="x_366672_sriinduit_log_incident" sizeclass="5" type="collection">
+        <element choice="1" label="contact type1" max_length="40" name="contact_type1" read_only="true" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="fact" sequence="0"/>
+                <element inactive_on_update="false" label="fact" sequence="0"/>
+            </choice>
+        </element>
+        <element default="default" label="history" max_length="100" name="history" type="journal"/>
+        <element choice="1" label="incident contact type" mandatory="true" max_length="100" name="incident_contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="type" sequence="0" value="type"/>
+                <element inactive_on_update="false" label="type2" sequence="1" value="type2"/>
+                <element inactive_on_update="false" label="type3" sequence="2" value="type3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Request datetime" max_length="40" name="request_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Req date" max_length="40" name="req_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Return datetime" max_length="40" name="return_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ret date" max_length="40" name="ret_date" type="glide_date_time"/>
+        <element default="default desc" label="SRIINDUDES" max_length="100" name="sriindudes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_start_date" read_only="true" type="glide_date"/>
+    </element>
+</database>

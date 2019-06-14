@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_366672_sriinduit_demo_incident</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 17:48:25</sys_created_on>
+        <sys_id>75023424dbc633008a9fe4da4b96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366672_sriinduit_demo_incident</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+        <sys_update_name>ua_table_licensing_config_75023424dbc633008a9fe4da4b96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 17:48:25</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

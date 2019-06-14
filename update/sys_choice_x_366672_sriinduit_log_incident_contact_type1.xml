@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="contact_type1" table="x_366672_sriinduit_log_incident" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type1</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>fact</label>
+            <language>en</language>
+            <name>x_366672_sriinduit_log_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45682294db4233008a9fe4da4b961979</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 09:40:10</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contact_type1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>fact</label>
+            <language>en</language>
+            <name>x_366672_sriinduit_log_incident</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:51:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48692210db8233008a9fe4da4b96199d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:24:57</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>contact_type1</element>
+            <name>x_366672_sriinduit_log_incident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:51:22</sys_created_on>
+            <sys_id>ff59e6dcdb4233008a9fe4da4b96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>contact_type1</sys_name>
+            <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+            <sys_update_name>sys_choice_x_366672_sriinduit_log_incident_contact_type1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:51:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

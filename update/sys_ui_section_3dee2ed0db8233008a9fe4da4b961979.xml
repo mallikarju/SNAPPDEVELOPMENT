@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="ESS user info2" section_id="3dee2ed0db8233008a9fe4da4b961979" sys_domain="global" table="x_366672_sriinduit_log_incident" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:26:30</sys_created_on>
+            <sys_id>a661b654db8233008a9fe4da4b961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="ESS user info2" display_value="ESS user info2" name="x_366672_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">3dee2ed0db8233008a9fe4da4b961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:26:30</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:26:30</sys_created_on>
+            <sys_id>6a61b654db8233008a9fe4da4b961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="ESS user info2" display_value="ESS user info2" name="x_366672_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">3dee2ed0db8233008a9fe4da4b961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:26:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:26:30</sys_created_on>
+            <sys_id>ea61b654db8233008a9fe4da4b961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="ESS user info2" display_value="ESS user info2" name="x_366672_sriinduit_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">3dee2ed0db8233008a9fe4da4b961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:26:30</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>ESS user info2</caption>
+            <header>false</header>
+            <name>x_366672_sriinduit_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:15:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dee2ed0db8233008a9fe4da4b961979</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>ESS user info2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+            <sys_update_name>sys_ui_section_3dee2ed0db8233008a9fe4da4b961979</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:26:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">783811707420330078509adcc48c87a3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

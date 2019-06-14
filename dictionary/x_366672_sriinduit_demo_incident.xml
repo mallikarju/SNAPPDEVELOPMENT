@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Demo incident" max_length="40" name="x_366672_sriinduit_demo_incident" sizeclass="1" type="collection">
+        <element default="....................." label="shortdes" max_length="100" name="shortdes" type="string"/>
+    </element>
+</database>

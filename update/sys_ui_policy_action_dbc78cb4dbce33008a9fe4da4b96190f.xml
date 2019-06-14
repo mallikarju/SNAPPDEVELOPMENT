@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>description</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:22:54</sys_created_on>
+        <sys_id>dbc78cb4dbce33008a9fe4da4b96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_dbc78cb4dbce33008a9fe4da4b96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:22:54</sys_updated_on>
+        <table>x_366672_sriinduit_log_incident</table>
+        <ui_policy display_value="make short description mandatory">e0450038dbce33008a9fe4da4b96198d</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

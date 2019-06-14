@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Log incident2" max_length="40" name="x_366672_sriinduit_log_incident2" sizeclass="1" type="collection">
+        <element choice="1" label="Choice1" mandatory="true" max_length="100" name="choice1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="type" sequence="0" value="type"/>
+                <element inactive_on_update="false" label="type2" sequence="1" value="type2"/>
+                <element inactive_on_update="false" label="type3" sequence="2" value="type3"/>
+            </choice>
+        </element>
+        <element default="default" label="short description1" mandatory="true" max_length="100" name="short_description1" type="string"/>
+        <element default="default" label="short description2" mandatory="true" max_length="100" name="short_description2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
+    </element>
+</database>

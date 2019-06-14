@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="SRIINDUITservice catalog">b4311fe0db4e33008a9fe4da4b961928</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:21</sys_created_on>
+        <sys_id>7681dfe0db4e33008a9fe4da4b9619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SRIINDUITservice catalog.catalog_sriinduitservice_catalog</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_sriinduitservice_catalog">7681dfe0db4e33008a9fe4da4b9619da</sys_portal_page>
+        <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_7681dfe0db4e33008a9fe4da4b9619db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:21</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

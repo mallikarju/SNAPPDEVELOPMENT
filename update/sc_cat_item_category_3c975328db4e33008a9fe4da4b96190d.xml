@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="sSIINDU sales laptop">d5621b24db4e33008a9fe4da4b9619b5</sc_cat_item>
+        <sc_category display_value="SIINDU hardware">ab36d3e4db4e33008a9fe4da4b9619ac</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:51:43</sys_created_on>
+        <sys_id>3c975328db4e33008a9fe4da4b96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SIINDU hardware.sSIINDU sales laptop</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+        <sys_update_name>sc_cat_item_category_3c975328db4e33008a9fe4da4b96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:51:43</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

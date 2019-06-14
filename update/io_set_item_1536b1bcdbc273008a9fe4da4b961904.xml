@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="college software">e5a42570dbc273008a9fe4da4b961994</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:24:47</sys_created_on>
+        <sys_id>1536b1bcdbc273008a9fe4da4b961904</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hardware set.college software</sys_name>
+        <sys_package display_value="SRIINDUIT" source="x_366672_sriinduit">bedb7550db0233008a9fe4da4b96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUIT">bedb7550db0233008a9fe4da4b96199f</sys_scope>
+        <sys_update_name>io_set_item_1536b1bcdbc273008a9fe4da4b961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:24:47</sys_updated_on>
+        <variable_set display_value="hardware set">c785bf28db8e33008a9fe4da4b9619d1</variable_set>
+    </io_set_item>
+</record_update>
